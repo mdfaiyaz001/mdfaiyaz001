@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm MD Faiyaz 👋
 
-<!--
-**mdfaiyaz001/mdfaiyaz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Final Year AIML Student
+- Aspiring Backend Developer
+- Focused on Python, FastAPI, SQL
+- Building projects to become job ready
+- Open to fresher opportunities in Hyderabad
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- SQL
+- FastAPI
+- Git & GitHub
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build strong backend projects
+- Improve DSA & SQL
+- Crack my first software job
+- Grow step by step
+
+## Projects
+- Expense Tracker API
+- Job Portal API
+- Jarvis Voice Assistant
+- Rainfall Prediction ML Project
+
+## Connect With Me
+- Email: mdfaiyaz99661@gmail.com
